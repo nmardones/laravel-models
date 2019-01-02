@@ -2,18 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="95a87321-3493-44ea-841d-e8fc611cf35a" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/consola.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/factory.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/migration.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/post-tag.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/post-test.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/post.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/seed.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/tag.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -69,13 +57,13 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="md" value="1678" />
+          <entry key="md" value="1750" />
           <entry key="php" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Markdown" value="1678" />
+          <entry key="Markdown" value="1750" />
           <entry key="PHP" value="1" />
         </counts>
       </usages-collector>
@@ -87,8 +75,8 @@
         <entry file="file://$PROJECT_DIR$/readme.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SECOND">
-              <first_editor relative-caret-position="423">
-                <caret line="97" column="28" lean-forward="true" selection-start-line="97" selection-start-column="28" selection-end-line="97" selection-end-column="28" />
+              <first_editor relative-caret-position="25">
+                <caret line="63" column="2" selection-start-line="63" selection-start-column="2" selection-end-line="63" selection-end-column="2" />
               </first_editor>
               <second_editor />
             </state>
@@ -444,7 +432,7 @@
       <updated>1545173016763</updated>
       <workItem from="1545173021318" duration="9501000" />
       <workItem from="1546026619278" duration="3420000" />
-      <workItem from="1546441997511" duration="7162000" />
+      <workItem from="1546441997511" duration="8118000" />
     </task>
     <servers />
   </component>
@@ -481,7 +469,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20083000" />
+    <option name="totallyTimeSpent" value="21039000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
@@ -740,8 +728,8 @@
     <entry file="file://$PROJECT_DIR$/readme.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SECOND">
-          <first_editor relative-caret-position="423">
-            <caret line="97" column="28" lean-forward="true" selection-start-line="97" selection-start-column="28" selection-end-line="97" selection-end-column="28" />
+          <first_editor relative-caret-position="25">
+            <caret line="63" column="2" selection-start-line="63" selection-start-column="2" selection-end-line="63" selection-end-column="2" />
           </first_editor>
           <second_editor />
         </state>

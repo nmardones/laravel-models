@@ -22,9 +22,9 @@ Hay dos ejemplos:
 | 2.- | Relación de un modelo de un Estado de una publicación y sus comentarios |
 
 
-##1.- Modelo de un Blog
+## 1.- Modelo de un Blog
 
-Lista todas las opciones de php artisan
+Lista todas las opciones de php artisan.
 ```sh
 $ php artisan list
 ```
@@ -37,7 +37,7 @@ $ php atisan make:model -h
 $ php artisan make:model Models/Post -mfcr
 ```
 
-Para mantener la misma estructura de carpetas y la opcción --unit
+Para mantener la misma estructura de carpetas en los test y la opcción --unit
 ```sh
 $ php artisan make:test Models/PostTest --unit
 ```
@@ -54,13 +54,17 @@ Creamos factory
 
 Creamos modelo Category
 ```sh
-php artisan make:model Models/Category -mfcr
+$ php artisan make:model Models/Category -mfcr
 ```
 
 En el modelo Post creamos la relación entre Post y Category
 
 ![Post](public/img/post.png)
 
+Ejcutamos la migraión
+```sh
+$ php artisan migrate:fresh
+```
 Ejecutamos PHPUnit
 
 ```sh
@@ -97,7 +101,7 @@ Creamos un seed
 
 ![seed](public/img/seed.png)
 
-Ejecutamos lamigración
+Ejecutamos la migración
 ```sh
 $ php artisan migrate:fresh --seed 
 ```
